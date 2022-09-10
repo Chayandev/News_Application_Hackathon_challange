@@ -30,7 +30,6 @@ https://saurav.tech/NewsAPI/everything/cnn.json
 
 #Demo Vedio Link Of App:
 
-https://youtu.be/4LwB2ASHJ_w
 
 #Team Members :
 
