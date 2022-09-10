@@ -22,6 +22,11 @@ How to make API calls in Android Studio | Volley library | Android Development T
 
 #Totaly Project is not completed Some bUtton implementation is not done yet, in future we will devlope it , it's a simple prototype we made.
 
+We fetched the data of News from api,form where the data will automaticaly be fetched.
+
+#Used Api:
+
+https://saurav.tech/NewsAPI/everything/cnn.json
 
 #Demo Vedio Link Of App:
 
