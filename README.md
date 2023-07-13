@@ -31,13 +31,3 @@ https://saurav.tech/NewsAPI/everything/cnn.json
 #Demo Vedio Link Of App:
 
 https://youtu.be/gUfLvv6-ST4
-
-#Team Members :
-
-1.Chayandev Bera
-
-2.Raj Mandal
-
-3.Urbi Chakraborty
-
-4.Gourav Bhadra
